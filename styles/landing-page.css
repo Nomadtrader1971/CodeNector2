@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: yellow;
+}
+
+
+.landing-page-title{
+  text-align: center;
+  font-family: "Lato";
+  color: blue;
+}
+
+
+.login {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 30px;
+  padding: 10px 30px;
+  background: #5EDBB1;
+  border-radius: 40px;
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "Lato";
+  border: none;
+  width: 100px;
+  text-align: center;
+}
+
+
+
+.signup {
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 30px;
+  padding: 10px 30px;
+  background: #5EDBB1;
+  border-radius: 40px;
+  color: white;
+  font-weight: 400;
+  font-size: 20px;
+  font-family: "Lato";
+  border: none;
+  width: 100px;
+  text-align: center;
+}
+
+
+.question-one{
+  text-align: center;
+  font-family: "Lato";
+  color: red;
+}
+
+
+.question-two{
+  text-align: center;
+  font-family: "Lato";
+  color: red;
+}
+
+.question-three{
+  text-align: center;
+  font-family: "Lato";
+  color: red;
+}
+
+.question-four{
+  text-align: center;
+  font-family: "Lato";
+  color: red;
+}
+
+.question-five{
+  text-align: center;
+  font-family: "Lato";
+  color: red;
+}
+
+.slider{
+  margin: auto;
+  width: 340px;
+
+}
